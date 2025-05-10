@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.suggestion {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  margin: 0px;
+}
+.title {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+}
